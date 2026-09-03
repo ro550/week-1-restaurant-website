@@ -92,7 +92,7 @@ nav ul li a.active {
 
 /* Hero Section */
 .hero {
-    background-image: url('../images/hero.jpg');
+    background-image: url('https://source.unsplash.com/1600x900/?african-restaurant');
     background-size: cover;
     background-position: center;
     height: 90vh;
